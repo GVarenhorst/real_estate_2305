@@ -11,7 +11,7 @@ RSpec.describe House do
 
     end
 
-    xit "has attributes" do
+    it "has attributes" do
 
       house = House.new("$400000", "123 sugar lane")
 
